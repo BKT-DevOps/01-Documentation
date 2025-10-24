@@ -1,6 +1,6 @@
 # Bilgisayar Kavramları Topluluğu Dokümantasyon Reposu
 
-Bu depo, Bilgisayar Kavramları Topluluğu'nun tüm üyelerini ilgilendiren temel dokümantasyonun merkezi olarak kullanılacaktır. Topluluk kuralları, proje yönetimi, teknik konfigürasyonlar ve diğer önemli belgeler burada güncel ve erişilebilir şekilde tutulacaktır.
+Bu Repo, Bilgisayar Kavramları Topluluğu'nun tüm üyelerini ilgilendiren temel dokümantasyonun merkezi olarak kullanılacaktır. Topluluk kuralları, proje yönetimi, teknik konfigürasyonlar ve diğer önemli belgeler burada güncel ve erişilebilir şekilde tutulacaktır.
 
 ## 📚 İçerik Başlıkları
 
@@ -19,11 +19,6 @@ Bu depo, Bilgisayar Kavramları Topluluğu'nun tüm üyelerini ilgilendiren teme
 - Değişiklikler için lütfen bir **pull request** açın ve açıklama ekleyin.
 - Büyük değişiklikler için önce bir **issue** açarak topluluk görüşü alınması önerilir.
 
-## 📄 Mevcut Belgeler
-
-- [`topluluk-kurallari.md`](./topluluk-kurallari.md): Topluluk davranış kuralları ve etik ilkeler
-- (Gelecek) Proje yönetimi rehberi
-- (Gelecek) Teknik konfigürasyon ve entegrasyon dokümanları
 
 ## 🛡️ Lisans ve Sorumluluk
 
