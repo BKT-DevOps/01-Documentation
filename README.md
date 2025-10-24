@@ -1,67 +1,37 @@
-# Documentation
+# Bilgisayar Kavramları Topluluğu Dokümantasyon Reposu
 
-Sample project description for Documentation
+Bu depo, Bilgisayar Kavramları Topluluğu'nun tüm üyelerini ilgilendiren temel dokümantasyonun merkezi olarak kullanılacaktır. Topluluk kuralları, proje yönetimi, teknik konfigürasyonlar ve diğer önemli belgeler burada güncel ve erişilebilir şekilde tutulacaktır.
 
-## 📋 Project Information
+## 📚 İçerik Başlıkları
 
-- **Project Lead**: @flovearth
-- **Status**: Active Development
-- **Type**: Community Project
+- **Topluluk Kuralları**
+  - Katılım, iletişim ve etik standartlar
+- **Proje Yönetimi**
+  - Proje süreçleri, görev dağılımı, katkı rehberleri
+- **Teknik Konfigürasyonlar**
+  - Ortak kullanılan araçlar, yazılım ve donanım ayarları, entegrasyonlar
+- **SSS ve Kaynaklar**
+  - Sıkça sorulan sorular, eğitim materyalleri, referanslar
 
-## 🚀 Quick Start
+## 🚦 Katkı Sağlama
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/BKT-DevOps/01-Documentation.git
-   cd 01-Documentation
-   ```
+- Herkes, topluluğun ortak faydasına olacak şekilde dokümantasyon ekleyebilir veya güncelleyebilir.
+- Değişiklikler için lütfen bir **pull request** açın ve açıklama ekleyin.
+- Büyük değişiklikler için önce bir **issue** açarak topluluk görüşü alınması önerilir.
 
-2. **Follow setup instructions**
-   - Check the [Initial Setup Issue](../../issues/1) for current tasks
-   - Review the [Team Documentation](docs/TEAM.md)
+## 📄 Mevcut Belgeler
 
-3. **Join the team**
-   - Read the [Project Documentation](docs/PROJECT.md)
-   - Contact the project lead for access
+- [`topluluk-kurallari.md`](./topluluk-kurallari.md): Topluluk davranış kuralları ve etik ilkeler
+- (Gelecek) Proje yönetimi rehberi
+- (Gelecek) Teknik konfigürasyon ve entegrasyon dokümanları
 
-## 📚 Documentation
+## 🛡️ Lisans ve Sorumluluk
 
-- [📖 Project Overview](docs/PROJECT.md) - Detailed project information
-- [👥 Team Information](docs/TEAM.md) - Team members and roles
-- [🐛 Issues](../../issues) - Track bugs and feature requests
-- [📋 Project Board](../../projects) - Kanban board for task management
-
-## 🛠️ Development
-
-### Prerequisites
-
-*Add specific prerequisites for this project*
-
-### Installation
-
-*Add installation instructions*
-
-### Usage
-
-*Add usage examples*
-
-## 🤝 Contributing
-
-1. Check open issues for tasks that need attention
-2. Follow the development workflow in our [Project Documentation](docs/PROJECT.md)
-3. Create a feature branch and submit a pull request
-4. Ensure all tests pass and code follows our standards
-
-## 📞 Contact
-
-- **Project Lead**: @flovearth
-- **Team**: See [Team Documentation](docs/TEAM.md)
-- **Issues**: Use GitHub issues for bug reports and feature requests
-
-## 📄 License
-
-*Add license information*
+- Tüm içerikler topluluk üyeleri tarafından açık ve şeffaf şekilde paylaşılır.
+- Telif hakkı ve etik kurallara uyulması zorunludur.
 
 ---
 
-*This project is part of our community organization. For more information, see our [organization profile](../../..).*
+Her türlü öneri ve katkı için teşekkürler!
+
+> Son güncelleme: 24 Ekim 2025
